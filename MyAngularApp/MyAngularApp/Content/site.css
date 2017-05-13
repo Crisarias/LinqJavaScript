@@ -1,0 +1,5 @@
+﻿.nav, .pagination, .carousel, .panel-title a { cursor: pointer; }
+
+.title {
+    margin:30px;
+}
