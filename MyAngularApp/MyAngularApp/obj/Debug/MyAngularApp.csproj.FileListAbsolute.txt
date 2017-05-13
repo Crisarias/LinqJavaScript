@@ -31,3 +31,36 @@ c:\users\extremetech\documents\visual studio 2015\Projects\MyAngularApp\MyAngula
 c:\users\extremetech\documents\visual studio 2015\Projects\MyAngularApp\MyAngularApp\obj\Debug\MyAngularApp.csprojResolveAssemblyReference.cache
 c:\users\extremetech\documents\visual studio 2015\Projects\MyAngularApp\MyAngularApp\obj\Debug\MyAngularApp.dll
 c:\users\extremetech\documents\visual studio 2015\Projects\MyAngularApp\MyAngularApp\obj\Debug\MyAngularApp.pdb
+E:\Repos\LinqJavaScript\MyAngularApp\MyAngularApp\bin\ApplicationInsights.config
+E:\Repos\LinqJavaScript\MyAngularApp\MyAngularApp\bin\roslyn\csc.exe
+E:\Repos\LinqJavaScript\MyAngularApp\MyAngularApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Repos\LinqJavaScript\MyAngularApp\MyAngularApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Repos\LinqJavaScript\MyAngularApp\MyAngularApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Repos\LinqJavaScript\MyAngularApp\MyAngularApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Repos\LinqJavaScript\MyAngularApp\MyAngularApp\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Repos\LinqJavaScript\MyAngularApp\MyAngularApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Repos\LinqJavaScript\MyAngularApp\MyAngularApp\bin\roslyn\System.Collections.Immutable.dll
+E:\Repos\LinqJavaScript\MyAngularApp\MyAngularApp\bin\roslyn\System.Reflection.Metadata.dll
+E:\Repos\LinqJavaScript\MyAngularApp\MyAngularApp\bin\roslyn\vbc.exe
+E:\Repos\LinqJavaScript\MyAngularApp\MyAngularApp\bin\roslyn\VBCSCompiler.exe
+E:\Repos\LinqJavaScript\MyAngularApp\MyAngularApp\bin\roslyn\VBCSCompiler.exe.config
+E:\Repos\LinqJavaScript\MyAngularApp\MyAngularApp\bin\MyAngularApp.dll.config
+E:\Repos\LinqJavaScript\MyAngularApp\MyAngularApp\bin\MyAngularApp.dll
+E:\Repos\LinqJavaScript\MyAngularApp\MyAngularApp\bin\MyAngularApp.pdb
+E:\Repos\LinqJavaScript\MyAngularApp\MyAngularApp\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Repos\LinqJavaScript\MyAngularApp\MyAngularApp\bin\Microsoft.AI.DependencyCollector.dll
+E:\Repos\LinqJavaScript\MyAngularApp\MyAngularApp\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Repos\LinqJavaScript\MyAngularApp\MyAngularApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Repos\LinqJavaScript\MyAngularApp\MyAngularApp\bin\Microsoft.AI.Web.dll
+E:\Repos\LinqJavaScript\MyAngularApp\MyAngularApp\bin\Microsoft.AI.WindowsServer.dll
+E:\Repos\LinqJavaScript\MyAngularApp\MyAngularApp\bin\Microsoft.ApplicationInsights.dll
+E:\Repos\LinqJavaScript\MyAngularApp\MyAngularApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Repos\LinqJavaScript\MyAngularApp\MyAngularApp\bin\Microsoft.AI.DependencyCollector.xml
+E:\Repos\LinqJavaScript\MyAngularApp\MyAngularApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Repos\LinqJavaScript\MyAngularApp\MyAngularApp\bin\Microsoft.AI.Web.xml
+E:\Repos\LinqJavaScript\MyAngularApp\MyAngularApp\bin\Microsoft.AI.WindowsServer.xml
+E:\Repos\LinqJavaScript\MyAngularApp\MyAngularApp\bin\Microsoft.ApplicationInsights.xml
+E:\Repos\LinqJavaScript\MyAngularApp\MyAngularApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Repos\LinqJavaScript\MyAngularApp\MyAngularApp\obj\Debug\MyAngularApp.csprojResolveAssemblyReference.cache
+E:\Repos\LinqJavaScript\MyAngularApp\MyAngularApp\obj\Debug\MyAngularApp.dll
+E:\Repos\LinqJavaScript\MyAngularApp\MyAngularApp\obj\Debug\MyAngularApp.pdb
